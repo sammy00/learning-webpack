@@ -3,5 +3,4 @@
 node_modules/
 
 # webpack
-webpack-demo/dist/bundle.js
-webpack-demo/dist/*.svg
+webpack-demo/dist/
